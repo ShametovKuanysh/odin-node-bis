@@ -1,0 +1,19 @@
+{
+  "name": "odin-node-bis",
+  "version": "1.0.0",
+  "description": "First Node Project 2024",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShametovKuanysh/odin-node-bis.git"
+  },
+  "author": "Kuanysh Shametov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShametovKuanysh/odin-node-bis/issues"
+  },
+  "homepage": "https://github.com/ShametovKuanysh/odin-node-bis#readme"
+}
